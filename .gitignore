@@ -1,12 +1,5 @@
 /.DS_Store
-/.travis.yml
-/_config.yml
-/db.json
 /node_modules
 /package-lock.json
 /package.json
 /public
-/scaffolds
-/source
-/target
-/themes
