@@ -3,3 +3,5 @@
 /public
 package-lock.json
 db.json
+.history
+.vscode
